@@ -15,7 +15,8 @@ public class ArrayListExample {
 //        list.add(43);
 //        list.add(654);
 //        list.add(8765);
-
+//if we add by passing index value , then after index value that is already in ArrayList will be shifted to right
+        //list.add(2,4567);
 //        System.out.println(list.contains(765432));
 //        System.out.println(list);
 //        list.set(0, 99);
